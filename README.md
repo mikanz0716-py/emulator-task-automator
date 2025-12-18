@@ -19,3 +19,13 @@ A practical Python script using ADB (Android Debug Bridge) to automate repetitiv
     # 環境に合わせてPythonのフルパスを指定
     [Pythonのパス] web_scraper.py
     ```
+    ---
+
+# 🔍 高度な画像認識・条件分岐デモ
+
+## 🎯 プロジェクトの概要
+`OpenCV` を活用し、画面上の特定のアイコンをリアルタイムで検出し、それに基づいた操作の自動分岐を行うスクリプトです。
+
+## ✨ 技術的なアピールポイント
+- **画像処理**: `OpenCV` によるテンプレートマッチング。
+- **リアルタイム解析**: `mss` ライブラリによる高速キャプチャ。
